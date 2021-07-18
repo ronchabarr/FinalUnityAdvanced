@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b417fe2bb22fec489aa928961e40040, type: 3}
+  m_Name: Pichu
+  m_EditorClassIdentifier: 
+  cardData:
+    id: 6
+    name: Pichu
+    power: 1
+    sprite: {fileID: 21300000, guid: e500fe5d58cd05c40847dde7d43388dd, type: 3}
+    desctiption: just a really bad pikachu
